@@ -1,0 +1,5 @@
+{
+  "name": "Custom tailscale repository",
+  "url": "https://github.com/alexroussel/addon-tailscale",
+  "maintainer": "alexroussel"
+}
